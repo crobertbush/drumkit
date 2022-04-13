@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./drumkitphoto.png') bottom center;
+  background: url(https://i.ytimg.com/vi/h9n5mFPtPpw/maxresdefault.jpg) bottom center;
   background-size: cover;
 }
 
@@ -20,7 +20,7 @@ body,html {
 
 .key {
   border: .4rem solid white;
-  border-radius: .5rem;
+  border-radius: 35%;
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
